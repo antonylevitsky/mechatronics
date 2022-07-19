@@ -1,0 +1,55 @@
+[style*="Roboto"] {
+  font-family: "Roboto", arial, sans-serif;
+}
+
+body {
+  font-family: "Roboto", Arial, sans-serif;
+}
+
+.greeting {
+  color: #4f5665;
+}
+
+.greeting__heading {
+  color: #0060ae;
+  text-align: center;
+  font-size: 24px;
+  font-weight: 700;
+}
+
+.mechatronics-link {
+  color: #0060ae;
+  font-weight: 700;
+  text-decoration: none;
+}
+
+.product__cell {
+  vertical-align: middle;
+}
+
+.product__name {
+  color: #0060ae;
+  font-size: 20px;
+  text-transform: uppercase;
+}
+
+.product__link {
+  display: inline-block;
+  padding: 8px 16px;
+
+  color: #fff;
+  font-weight: 700;
+  text-decoration: none;
+
+  background: #0060ae;
+
+  border-radius: 10px;
+}
+
+.signature {
+  font-size: 18px;
+}
+
+.signature__name {
+  color: #0060ae;
+}
